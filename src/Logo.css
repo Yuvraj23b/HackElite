@@ -1,0 +1,11 @@
+/* Logo.css */
+.logo {
+    position: absolute;
+    top: 20px; /* Adjust as needed to position vertically */
+    right: 20px; /* Adjust as needed to position horizontally */
+    font-size: 18px; /* Adjust the font size */
+    font-weight: bold; /* Adjust font properties as needed */
+    color: #333; /* Adjust text color */
+    z-index: 999; /* Ensures the logo appears above other content */
+  }
+  
